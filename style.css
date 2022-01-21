@@ -1,0 +1,58 @@
+/* CSS reset, dit niet aanpassen! */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Hieronder mag je eigen CSS code */
+
+body {
+
+    text-align: center;
+}
+
+
+
+#contact {
+    text-align: left;
+}
+
+.test {
+
+    background-image: url(img/c.jpeg);
+    background-size: auto;
+
+}
+
+#appel {
+
+    color: white;
+    background-color: #000000;
+    margin: 10px;
+    padding: 10px;
+    border: inset white;
+}
+
+body {}
+
+
+
+
+head {}
